@@ -93,6 +93,7 @@
     ```
     python manage.py loaddata data.json
     ```
+    <br>
 
 12. Access the local server 
     ```

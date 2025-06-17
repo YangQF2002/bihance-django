@@ -23,6 +23,7 @@
         "editor.defaultFormatter": "charliermarsh.ruff"
     }
    ```
+   <br>
 
 4. Go into the project directory 
    ```

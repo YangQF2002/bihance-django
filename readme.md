@@ -23,6 +23,7 @@
         "editor.defaultFormatter": "charliermarsh.ruff"
     }
    ```
+   <br>
 
 4. Go into the project directory 
    ```
@@ -92,6 +93,7 @@
     ```
     python manage.py loaddata data.json
     ```
+    <br>
 
 12. Access the local server 
     ```
